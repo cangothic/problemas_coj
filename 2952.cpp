@@ -1,3 +1,5 @@
+/*http://coj.uci.cu/24h/problem.xhtml?pid=2952
+Tobby and Tanks I*/
 #include<stdio.h>
 #include<vector>
 using namespace std;
